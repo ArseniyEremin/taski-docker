@@ -1,0 +1,17 @@
+# Environment variables
+.env
+*.env
+.env.*
+
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
